@@ -3,7 +3,6 @@
 #include <SFML/Graphics.hpp>
 #include<iostream>
 using namespace sf;
-
 extern int gameField[22][12];
 extern int score;
 
