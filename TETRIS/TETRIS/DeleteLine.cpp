@@ -7,7 +7,6 @@ using namespace sf;
 extern int gameField[22][12];
 extern int score;
 
-
 void checkFullLine(RenderWindow &window) {
 
 	for (int k = 0; k < 4; k++) {
